@@ -1,5 +1,14 @@
-## Hi there 👋
+## AI Engineer focused on agentic systems and recommender architectures
 
+### Featured project
+- agent-rec → Agentic recommender system with retrieval + LLM reasoning
+
+### TechStack
+Python
+PyTorch / sklearn
+vector databases 
+FastAPI
+LLM APIs / open-source models
 <!--
 **Pi-Wi/Pi-Wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
